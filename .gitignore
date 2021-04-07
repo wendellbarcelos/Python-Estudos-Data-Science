@@ -1,0 +1,12 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/.vscode
+/arquivos
+/PythonFundamentos
+/controle_de_abacates.xlsx
+/estatistica.csv
+/teste.py
+/teste.txt
+/testevscode.ipynb
+
