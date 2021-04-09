@@ -2,7 +2,7 @@
 
 
 
-Repositório em andamento criado para o projeto de um site da academia Gym Master Body, projeto de estudo para aprimorar as tecnicas e conhecimento em HTML, CSS e JavaScript utilizando tecnologias que envolvem front-end e back-end.
+Notebook com todo o fundamento em Python para data science usando estruturas de controle, Repetição, Funções, Map, Reduce, Filter, List Comprehensions, Função Lambda, POO, Pandas, Numpy, Random
 
 
 
